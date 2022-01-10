@@ -1,4 +1,4 @@
-# Formalário para Devs
+# Formulário para Devs
 
 <p align="center">
   <img alt="Desktop" src="./img/desktop.png" width="100%">
